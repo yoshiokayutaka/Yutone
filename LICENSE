@@ -1,0 +1,75 @@
+# Yutone カスタムライセンス（吉岡有隆ライセンス）
+
+Copyright (c) 2025 吉岡有隆（Yutaka Yoshioka）
+
+本アプリケーション「Yutone（ユトーン）」およびその関連コード・デザイン・ドキュメントは、すべて吉岡有隆（Yutaka Yoshioka）により創作され、著作権保護下にあります。
+
+本ソフトウェアは無償で提供され、GitHub 上にソースコードを公開する予定ですが、以下の条件をすべて満たす場合に限り、使用・複製・改変・再配布を許可します。
+
+---
+
+## 許可される行為
+
+- 本ソフトウェアの**個人的または教育目的での使用**
+- コードの一部を**学習目的で引用**（ただし**出典明記が必要**）
+- GitHub上のリポジトリの**フォーク**（※必ずクレジット表記を残すこと）
+
+---
+
+## 禁止事項
+
+- クレジット（著作：吉岡有隆）を**削除または隠蔽**した状態での再配布
+- **オリジナル製作者を偽る行為**
+- 本プロジェクトの**コンセプト、名称、ロゴ、デザインの模倣・商用利用**
+- **有隆の事前許可なく**、本ソフトウェアの派生物を公開または販売する行為
+
+---
+
+## 表記義務
+
+以下の著作権表示を、**コード、README、アプリ内クレジット、または配布時の説明文**に必ず記載してください：
+
+# Yutone Custom License (Yoshioka Yutaka License)
+
+Copyright (c) 2025 Yutaka Yoshioka
+
+This application "Yutone" and all related code, design, and documentation are original works created by Yutaka Yoshioka and are protected under copyright law.
+
+The software is offered free of charge and will be published on GitHub,  
+but permission to use, copy, modify, and redistribute is granted **only if all of the following conditions are met**:
+
+---
+
+## Permitted Uses
+
+- **Personal or educational use** of the software  
+- **Quoting portions of the code** for learning purposes (with **proper attribution**)  
+- **Forking the GitHub repository** (must retain credit and license notice)
+
+---
+
+## Prohibited Actions
+
+- **Removing or hiding** the credit ("Created by Yutaka Yoshioka") when redistributing  
+- **Misrepresenting** yourself as the original author  
+- **Commercial use or imitation** of the project’s concept, name, logo, or design  
+- **Publishing or selling derivative works** without **prior permission** from Yutaka
+
+---
+
+## Required Attribution
+
+The following copyright notice **must be included** in the codebase, README, app credits, or any distribution materials:
+
+
+Additionally, if you create derivative works, you must clearly state:
+
+> "This work is based on 'Yutone' created by Yutaka Yoshioka."
+
+---
+
+This license was established on **June 27, 2025**.  
+The terms may be revised at the discretion of the author.
+
+
+
