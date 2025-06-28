@@ -1,6 +1,13 @@
 
 # Yutone アプリ設計図（v0.1）
 
+---
+title: Yutone アプリ設計図 v0.1
+author: 吉岡有隆（Yutaka Yoshioka）
+copyright: (c) 2025 Yutaka Yoshioka
+license: Yutone カスタムライセンス（詳細は LICENSE.md 参照）
+---
+
 ## アプリ概要
 **Yutone**は、以下3つの機能を統合したメンタルケア・ライフサポートアプリです：
 
@@ -89,3 +96,4 @@
 - FUKUプロトコルとの連携（やさしさ評価ログ）
 - スマートウォッチ連携による休憩提案
 - 「誰にも見られたくない人用」完全ステルスログ
+
