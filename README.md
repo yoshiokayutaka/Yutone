@@ -1,3 +1,13 @@
+> 本プロジェクト「Yutone（ユトーン）」は、2025年6月27日制定のYutoneカスタムライセンスに基づき保護されています。  
+> 本ソフトウェアの構想・思想・構成・名称・デザイン・UX設計・文章・目的（癒しと共生）を含むすべてにおいて、著作権は**吉岡有隆（Yutaka Yoshioka）**に帰属します。  
+> 無断での複製・改変・商用利用・派生物の公開は固く禁じられています。  
+> 詳細は [LICENSE.md](./LICENSE) をご確認ください。
+
+> This project "Yutone" is protected under the **Yutone Custom License**, established on June 27, 2025.  
+> All rights including the **concept, philosophy, structure, name, design, UX, and purpose (healing & co-living)** belong to **Yutaka Yoshioka**.  
+> Unauthorized use, modification, commercialization, or derivative publishing is strictly prohibited.  
+> See [LICENSE.md](./LICENSE) for full details.
+
 # Yutone（ユトーン）
 
 **Yutone** は、心の音に耳をすませるように、  
