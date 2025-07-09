@@ -71,6 +71,8 @@ Yutone（ユトーン）は、
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15847308.svg)](https://doi.org/10.5281/zenodo.15847308)
 
+Yutone is not just a reminder app—it's a quiet friend who remembers your kindness when you forget.
+
 ---
 
 > **やさしさも、テクノロジーの力で育てられる。**  
